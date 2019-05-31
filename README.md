@@ -19,6 +19,11 @@ and run it by
 ./darkreigngo
 ```
 
+# Screenshot
+
+![screenshot](https://github.com/siredmar/darkreigngo/raw/master/doc/screenshot.png)
+
+
 # Future Development?
 
 This can be a a step in the direction of a new Dark Reign engine.
