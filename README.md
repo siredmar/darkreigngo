@@ -6,7 +6,7 @@ In order to start the game you need to clone this repo.
 It also downloads the html5 version as submodule.
 
 ```
-$ git clone --resursive https://github.com/siredmar/darkreigngo.git
+$ git clone --recurse-submodules https://github.com/siredmar/darkreigngo.git
 ```
 
 Build it using
