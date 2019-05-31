@@ -1,0 +1,3 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/qmegas/Dark-Reign---HTML5-Version.git
